@@ -6,3 +6,7 @@
 ``` python
 import pytorch
 ```
+
+- [ ] IA BIOMED
+- [ ] CHESS AI
+- [X] LOL
